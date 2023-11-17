@@ -48,10 +48,6 @@
 ## Output:
 ![image](https://github.com/SamyukthaSreenivasan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475703/a50b43d5-860c-44c1-9e68-95e7d3d11f33)
 
-![image](https://github.com/SamyukthaSreenivasan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475703/131a1569-875b-4562-bbd7-56e7c2dad860)
-
-![image](https://github.com/SamyukthaSreenivasan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475703/f8fa5fa3-38ac-45f3-99af-9a152b7b4ad5)
-
 ### Name:Samyuktha S
 ### Register Number:212222240089
 
